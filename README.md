@@ -1,5 +1,5 @@
 # Audio-Classification
-<h2> This repository is followed from https://bit.ly/2YWw7Dd </h2>
+## This repository is followed from https://bit.ly/2YWw7Dd 
 ```
 The wavfiles contain 10 classes of data each one have 30 samples
 The instruments.csv file has the label of each of this wavfile
