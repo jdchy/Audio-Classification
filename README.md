@@ -1,20 +1,21 @@
 # Audio-Classification
 ## This repository is followed from https://bit.ly/2YWw7Dd 
-```
-The wavfiles contain 10 classes of data each one have 30 samples
-The instruments.csv file has the label of each of this wavfile
-The clean directory contains all the clean wavfile after pre processing
-```
+
+ * wavfiles : 10 classes Data (30 samples each)
+ * instruments.csv : Labels of data samples
+ * Clean : Data after preprocessing
+
 ## Models and Pickles
-```
-There are two models implemented. One is the convolutional model and another one is recurrent model.
-In the pickles directory the x and y values are stored and the resulting model is saved into the models directory. 
-```
+
+ - Conv : Conv.p is pickle file for running convolutional model
+ - LSTM : time.p is pickle file for running LSTM
+
 ## Prediction
 ```
 The predict.py file is used for making prediction on the existing data and the result has 
 been saved onto prediction.csv file 
 ```
+
 ## For detailed description and guidence please follow 
 
 ````
