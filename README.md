@@ -15,4 +15,8 @@ In the pickles directory the x and y values are stored and the resulting model i
 The predict.py file is used for making prediction on the existing data and the result has 
 been saved onto prediction.csv file 
 ```
-## For detailed description and guidence please follow `https://bit.ly/2YWw7Dd`
+## For detailed description and guidence please follow 
+
+````
+https://bit.ly/2YWw7Dd
+`````
